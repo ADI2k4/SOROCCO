@@ -1,3 +1,2 @@
 # SOROCCO
-
-By Me
+By Me @ My PC
